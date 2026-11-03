@@ -48,6 +48,7 @@ h3 {
   line-height: 28px;
   font-weight: 700;
   border-left: 5px solid orange;
+  padding-left: 10px;
 }
 .btns {
   margin-top: 25px;
